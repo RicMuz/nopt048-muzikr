@@ -36,7 +36,7 @@ At the end we specify, what the output is:
 - We add together the weights of the edges, that won't stay in the graph and print them
 - Then we print the edges that we deleted and their weights
 
-## Clique cover
+## Clique cover (#2)
 
 The program is similar to vertex coloring of the graph. Clique cover is coloring on complement of the graph.
 
